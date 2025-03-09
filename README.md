@@ -140,14 +140,6 @@ Meu nome é Arthur Avila dos Santos, tenho 22 anos e sou estudante de Ciência d
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="[https://github-readme-stats.vercel.app/api?username=ItsAvila&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800](https://github-readme-stats.vercel.app/api?username=ItsAvila&show_icons=true&theme=tokyonight&locale=pt-br)" 
-  />
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAvila&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
   />
 </p>
